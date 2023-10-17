@@ -1,4 +1,4 @@
-# AI_assignment1_maze_solver 
+# Reinforcement learning with five methods: DFS, BFS, A star, Policy MDP, Value MDP. 
 python run_single_algorithm.py -s 5 -r 2 -m dfs  
 -s means the maze size  
 -r means the random seed of the maze generator  
